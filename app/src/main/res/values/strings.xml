@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToDO</string>
+
+
+    <string name="textview">TextView</string>
+    <string name="button">login</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+
+    <string name="new_member_plzz_sign_up">new member plzz sign up..!</string>
+    <string name="login">login</string>
+    <string name="plzz_sign_up">plzz sign up</string>
+</resources>
